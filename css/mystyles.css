@@ -36,3 +36,7 @@ ul{
     font-family: 'Libre Barcode 39 Text';
     font-size: 20pt !important;
 }
+
+.paragraph-align-left {
+    text-align: left;
+}
