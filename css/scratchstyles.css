@@ -97,3 +97,6 @@ li{
     z-index: 2; 
 }
 
+.wrap-behind-pic {
+    padding-top: 3;
+}

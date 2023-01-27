@@ -40,3 +40,22 @@ ul{
 .paragraph-align-left {
     text-align: left;
 }
+
+.wrap-behind-pic {
+    margin-bottom: 10px !important;
+    margin-top: 10px  !important;
+    
+    border-radius: 0.25rem !important;
+}
+.textbox {
+    margin: auto;
+}
+p {
+    position: relative;
+
+}
+
+.textbox {
+    margin-bottom: 120rem;
+    
+}
