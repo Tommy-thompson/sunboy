@@ -1,0 +1,61 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black !important;
+}
+.myimg{
+    width: 50%;
+}
+.myitalics{
+    font-style: italic;
+}
+.table{
+    margin-left: auto;
+
+}
+.reshead{
+        font-family: 'Libre Barcode 39 Text';
+        font-size: 35pt;
+}
+.paragraph{
+    text-align: right;
+    margin-left: 35pt;
+}
+ul{
+    columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+.introbox{
+    font-family: 'Libre Barcode 39 Text';
+    font-size: 20pt !important;
+}
+.navi{
+    font-family: 'Libre Barcode 39 Text';
+    font-size: 20pt !important;
+}
+
+.paragraph-align-left {
+    text-align: left;
+}
+
+.wrap-behind-pic {
+    margin-bottom: 10px !important;
+    margin-top: 10px  !important;
+    
+    border-radius: 0.25rem !important;
+}
+.textbox {
+    margin: auto;
+}
+p {
+    position: relative;
+
+}
+
+.textbox {
+    margin-bottom: 120rem;
+    
+}
