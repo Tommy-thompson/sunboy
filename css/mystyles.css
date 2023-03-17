@@ -56,6 +56,10 @@ p {
 }
 
 .textbox {
-    margin-bottom: 120rem;
+    margin-bottom: 1500rem !important;
     
+}
+
+.spacing{
+    padding-top: 500rem !important;
 }
